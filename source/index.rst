@@ -17,7 +17,7 @@ The official Team 3098 website can be found `here`_
    :maxdepth: 2
    :hidden:
 	
-   quicklinks
+   pages/quicklinks
 
 First Steps
 -----------
@@ -33,7 +33,7 @@ The following sections details what must be done to begin working with the robot
    :hidden:
    :caption: Programming
 	
-   pc-software-installation
+   pages/pc-software-installation
 
 References
 -----------------------------------
@@ -46,9 +46,9 @@ There is a seemingly endless amount of information related to FIRST.
    :hidden:
    :caption: Technical Resources
 
-   2020-WPI-Lib
-   KOP_Docs
-   Misc_Links
+   pages/2020-WPI-Lib
+   pages/KOP_Docs
+   pages/Misc_Links
 
 Techinical Resources From Other Teams
 --------------------------------------
@@ -63,7 +63,7 @@ other teams.
    :glob:
    :caption: Examples From Other Teams
 
-   Team-Examples
+   pages/Team-Examples
 
 
 
@@ -77,5 +77,5 @@ Learn about Team 3098.
    :hidden:
    :caption: About Read the Docs
 
-   roadmap
-   team
+   pages/roadmap
+   pages/team
