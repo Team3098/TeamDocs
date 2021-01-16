@@ -10,6 +10,7 @@ While the majority of the documentation and references found here will be relate
 to programming it does not mean other references types can't be contained here as well.
 
 The official Team 3098 website can be found `here`_
+
 `First Robotics 2021 Season Details`_
 
 .. _here: https://www.team3098wkhs.org/
