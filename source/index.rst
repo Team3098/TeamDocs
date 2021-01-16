@@ -9,7 +9,7 @@ This is meant to serve as a living repository for Team 3098's documentation.
 While the majority of the documentation and references found here will be related
 to programming it does not mean other references types can't be contained here as well.
 
-The official Team 3098 website can be found `here`_
+Official Team 3098 website can be found `here`_
 
 `First Robotics 2021 Season Details`_
 
