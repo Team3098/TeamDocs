@@ -10,16 +10,14 @@ While the majority of the documentation and references found here will be relate
 to programming it does not mean other references types can't be contained here as well.
 
 The official Team 3098 website can be found `here`_
+`First Robotics 2021 Season Details`_
 
 .. _here: https://www.team3098wkhs.org/
+.. _First Robotics 2021 Season Details: https://www.firstinspires.org/robotics/frc/game-and-season
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   
-`First Robotics 2021 Season Details`_
-
-.. _First Robotics 2021 Season Details: https://www.firstinspires.org/robotics/frc/game-and-season
 	
    pages/quicklinks
 
