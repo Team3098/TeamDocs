@@ -16,6 +16,10 @@ The official Team 3098 website can be found `here`_
 .. toctree::
    :maxdepth: 2
    :hidden:
+   
+`First Robotics 2021 Season Details`_
+
+.. _First Robotics 2021 Season Details: https://www.firstinspires.org/robotics/frc/game-and-season
 	
    pages/quicklinks
 
